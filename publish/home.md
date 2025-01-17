@@ -1,6 +1,14 @@
 ---
-title: "An Extendable Obsidian Publish alternative using Next.JS"
-excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
+title: "Home"
+excerpt: "Excerpt shown in note preview + SEO"
+date: ""
+author:
+	name: "Devvyyxyz"
+	url: "https://avatars.githubusercontent.com/u/132696257"
+ogImage:
+	url: "https://avatars.githubusercontent.com/u/132696257"
 ---
-![[Pasted image 20250117124808.png]]
+## What can i find here?
+
+## Getting started
 
