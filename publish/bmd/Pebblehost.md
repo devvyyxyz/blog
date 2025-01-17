@@ -3,7 +3,7 @@ Visit https://billing.pebblehost.com and o echase The **Discord bot hosting** pl
 ## Connect to panel
 You can find the information in the billing emails inbox. Please visit https://panel.pebblehost.com and enter the provided username and password.
 ## Uploading files
-Uploading your files can be done via the uppoad file option on the panel or via FTP (file transfer protocol), it is best practice and much easier to use FTP. A guide for uploading files with FTP can be found [here](blog/publish/uploading-files-with-ftp).
+Uploading your files can be done via the uppoad file option on the panel or via FTP (file transfer protocol), it is best practice and much easier to use FTP. A guide for uploading files with FTP can be found [here](../uploading-files-with-ftp)
 ## Edit bot start file config
 Head over to the pebblehost loader tab and change your “bot start file” from ʼindex.jsʼ to ʼbot.jsʼ. If it is already set as ʼbot.jsʼ then leave it.
 ## Install all required node modules 
