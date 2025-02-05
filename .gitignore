@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+dist/
+.turbo/
+
+# Environment variables
+.env
+.env.production
+.env.local
+
+# Logs and cache
+.cache/
+.log
+*.log
+
+# OS/Editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Obsidian settings (optional: ignore if you don't want to sync Obsidian configs)
+.obsidian/
+
+# Astro build output
+.server/
