@@ -1,10 +1,10 @@
 ---
-title: "Template"
-description: "Templaye description"
+title: Template
+description: Templaye description
 pubDate: 00-00-00
-tags: ["template", "post"]
+tags:
+  - template
 ---
 
 # Template
-
 This post was written in template.md! ✨
