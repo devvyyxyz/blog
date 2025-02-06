@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/blog/GitHub/GitHub workflows.md",
+                "file": "src/content/blog/Linux/Clean up Arch Linux.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GitHub workflows"
+              "title": "Clean up Arch Linux"
             }
           }
         ]
@@ -161,13 +161,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
+    "src/templates/Base.md",
+    "src/content/blog/Linux/Clean up Arch Linux.md",
     "src/content/blog/markdown-style-guide.md",
+    "src/content/blog/Linux",
+    "src/content/blog/GitHub/Untitled 1.md",
+    "src/content/blog/GitHub/Untitled.md",
+    "Untitled.md",
     "src/content/blog/GitHub/GitHub workflows.md",
+    "src/templates",
     "public/favicon.svg",
     "src/content/blog/GitHub",
     "public/blog-placeholder-1.jpg",
@@ -185,8 +193,6 @@
     "src/pages/about.astro",
     "src/components/FormattedDate.astro",
     "src/styles/global.css",
-    "src/styles",
-    "src/pages/index.astro",
     "src/content/blog/e/third-post.md",
     "public/blog-placeholder-about.jpg",
     "/src/content/blog/second-post.md",
