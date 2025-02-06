@@ -2,7 +2,7 @@
 title: How to Make Your Twitter/X Account Private in 2025
 description: A step-by-step guide to securing your Twitter/X account by making it private and controlling who can see your tweets.
 pubDate: Feb 06 2025
-heroImage: /blog-placeholder-4.jpg
+heroImage: /Twitter-x-devvyyxyz.jpg
 ---
 
 ## Introduction

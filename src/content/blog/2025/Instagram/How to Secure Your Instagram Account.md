@@ -1,8 +1,8 @@
 ---
-title: 'How to Secure Your Instagram Account'
-description: 'A quick guide to making your Instagram account private and protecting your personal content.'
-pubDate: 'Feb 06 2025'
-heroImage: '/instagram-security.jpg'
+title: How to Secure Your Instagram Account
+description: A quick guide to making your Instagram account private and protecting your personal content.
+pubDate: Feb 06 2025
+heroImage: /instagram-devvyyxyz.jpg
 ---
 
 ## Introduction

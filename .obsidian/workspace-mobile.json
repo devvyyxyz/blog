@@ -11,12 +11,14 @@
             "id": "bc70d6e87676c7f9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "public/linkedin.jpg"
+                "file": "src/content/blog/2024/markdown-style-guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "linkedin"
+              "icon": "lucide-file",
+              "title": "markdown-style-guide"
             }
           }
         ]
@@ -165,17 +167,19 @@
   },
   "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
+    "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
+    "src/content/blog/2025/Trends/Emerging Tech Trends in 2025.md",
+    "public/Twitter-x-devvyyxyz.png",
+    "src/content/blog/2025/Linux/Customize Your Linux Terminal with ZSH and Oh-My-Zsh.md",
     "src/content/blog/2025/LinkedIn/How to Optimize Your LinkedIn Profile.md",
+    "src/content/blog/2025/Instagram/How to Secure Your Instagram Account.md",
+    "public/linkedin-devvyyxyz.jpg",
+    "public/Instagram-devvyyxyz.jpg",
     "public/blog-placeholder-1.jpg",
-    "public/linkedin.jpg",
-    "src/content/blog/2025/Linux/Untitled.md",
     "src/content/blog/2025/Linux/Clean up Debian Linux.md",
     "src/content/blog/2025/Linux/Clean up Arch Linux.md",
-    "src/content/blog/2025/Instagram/How to Secure Your Instagram Account.md",
-    "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
     "src/content/blog/2025/LinkedIn",
     "src/content/blog/2025/Instagram",
-    "src/content/blog/2025/Trends/Emerging Tech Trends in 2025.md",
     "src/content/blog/2025/Untitled.md",
     "src/content/blog/2025/Twitter",
     "src/content/blog/2024/markdown-style-guide.md",
@@ -205,8 +209,6 @@
     "/src/content/blog/markdown-style-guide.md",
     "/src/content/blog/first-post.md",
     "/src/content/blog/e/third-post.md",
-    "/public/favicon.svg",
-    "/public/blog-placeholder-about.jpg",
     "/README.md",
     "src/content/blog/GitHub workflows.md",
     "src/content/blog/template.md"
