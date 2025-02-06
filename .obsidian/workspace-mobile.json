@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "e98b969ddf8dd2d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f876a5c772582bbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc70d6e87676c7f9",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: app.json"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "639a2af9f61c02f6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "00b300a259335bf1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a61e8ed00cafb897",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6cfc4690a8291668",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d92760d3f5069493",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a42885e8de26e895",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "df55b375ecc6ae2b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Blogs/Best blog creation tools.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b92f19cf18ebc445",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Blogs/Best blog creation tools.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a6ea3363a0afe0b5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Blogs/Best blog creation tools.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "d06675533a40e511",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bc70d6e87676c7f9",
+  "lastOpenFiles": [
+    "src/content/blog/GitHub/GitHub workflows.md",
+    "public/favicon.svg",
+    "src/content/blog/GitHub",
+    "public/blog-placeholder-1.jpg",
+    "public/blog-placeholder-5.jpg",
+    "public/blog-placeholder-4.jpg",
+    "public/blog-placeholder-3.jpg",
+    "public/blog-placeholder-2.jpg",
+    "src/content/blog/first-post.md",
+    "src/content/blog/markdown-style-guide.md",
+    "src/content/blog/second-post.md",
+    "src/content/blog/Best SSG for blogs.md",
+    "tailwind.config.cjs",
+    "src/pages/blog/index.astro",
+    "src/content.config.ts",
+    "tsconfig.json",
+    "src/pages/about.astro",
+    "src/components/FormattedDate.astro",
+    "src/styles/global.css",
+    "src/styles",
+    "src/pages/index.astro",
+    "src/content/blog/e/third-post.md",
+    "public/blog-placeholder-about.jpg",
+    "/src/content/blog/second-post.md",
+    "/src/content/blog/markdown-style-guide.md",
+    "/src/content/blog/first-post.md",
+    "/src/content/blog/e/third-post.md",
+    "/public/favicon.svg",
+    "/public/blog-placeholder-about.jpg",
+    "/public/blog-placeholder-5.jpg",
+    "/README.md",
+    "src/content/blog/GitHub workflows.md",
+    "src/content/blog/template.md",
+    "README.md",
+    "src/content/blog/How to setup astro with Obsidian.md",
+    "src/content/blog/Best blog creation tools.md",
+    "src/content/Untitled.md"
+  ]
+}
