@@ -5,8 +5,6 @@ pubDate: Feb 06 2025
 heroImage: /blog-placeholder-2.jpg
 ---
 > Please ensure you understand the purpose of each script before running it, as some scripts may alter system settings or delete files. Always run with appropriate permissions, especially for scripts requiring sudo access.
-
-
 ## Clean pkg cache
 List packages
 ```bash
