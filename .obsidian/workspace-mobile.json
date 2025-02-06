@@ -11,14 +11,12 @@
             "id": "bc70d6e87676c7f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
-                "mode": "preview",
-                "source": true
+                "file": "public/blog-placeholder-5.png"
               },
-              "icon": "lucide-file",
-              "title": "Unreal Engine resources"
+              "icon": "lucide-image",
+              "title": "blog-placeholder-5"
             }
           }
         ]
@@ -167,18 +165,25 @@
   },
   "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
+    "public/blog-placeholder-4.png",
+    "public/blog-placeholder-5.png",
+    "public/blog-placeholder-3.png",
+    "public/blog-placeholder-2.png",
+    "public/blog-placeholder-1.png",
+    "public/blog-placeholder-about.png",
+    "public/blog-placeholder-about.jpg",
+    "public/favicon.png",
+    "public/favicon.svg",
+    "public/unreal-engine-devvyyxyz.jpg",
+    "src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
     "src/content/blog/2025/Unreal Engine",
     "src/content/blog/2025/Instagram/How to Secure Your Instagram Account.md",
-    "src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
     "src/content/blog/2024/markdown-style-guide.md",
     "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
     "src/content/blog/2025/Trends/Emerging Tech Trends in 2025.md",
     "public/Twitter-x-devvyyxyz.png",
     "src/content/blog/2025/Linux/Customize Your Linux Terminal with ZSH and Oh-My-Zsh.md",
     "src/content/blog/2025/LinkedIn/How to Optimize Your LinkedIn Profile.md",
-    "public/linkedin-devvyyxyz.jpg",
-    "public/Instagram-devvyyxyz.jpg",
-    "public/blog-placeholder-1.jpg",
     "src/content/blog/2025/Linux/Clean up Debian Linux.md",
     "src/content/blog/2025/Linux/Clean up Arch Linux.md",
     "src/content/blog/2025/LinkedIn",
@@ -189,12 +194,6 @@
     "src/templates/Base.md",
     "src/content/blog/2025",
     "src/content/blog/2025/GitHub/GitHub workflows.md",
-    "public/blog-placeholder-2.jpg",
-    "public/blog-placeholder-3.jpg",
-    "public/blog-placeholder-4.jpg",
-    "public/blog-placeholder-5.jpg",
-    "public/favicon.svg",
-    "public/blog-placeholder-about.jpg",
     "src/content/blog/2025/Linux",
     "src/content/blog/GitHub/Untitled 1.md",
     "src/content/blog/GitHub/Untitled.md",
@@ -204,7 +203,6 @@
     "src/content/blog/first-post.md",
     "src/content/blog/second-post.md",
     "src/content/blog/Best SSG for blogs.md",
-    "tailwind.config.cjs",
     "src/content/blog/e/third-post.md",
     "/src/content/blog/second-post.md",
     "/src/content/blog/markdown-style-guide.md",
