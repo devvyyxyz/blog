@@ -1,68 +1,119 @@
-# Astro Starter Kit: Blog
+<h1 align="center">Token</h1>
+<h2 align="center">Minimal Astro + Tailwind CSS Starter</h2>
 
-```sh
-npm create astro@latest -- --template blog
+<p align="center">
+    <img alt="hero" width="450" src="public/image.png" />
+</p>
+
+> [!NOTE]
+>
+> `token-template` is a modern and minimalistic Astro + Tailwind CSS starter designed for developers and creators. With a sleek black-and-white terminal-inspired design, it features support for Markdown (MD), MDX, RSS feeds, sitemaps, and fully static content, making it perfect for personal portfolios and blogs.
+
+## 🌟 Features
+
+> **token-template** features intro:
+
+- **Minimalist Design** – Black-and-white terminal-inspired aesthetics with custom fonts.
+- **Astro + Tailwind CSS** – Built using Astro and styled with Tailwind CSS for easy customization.
+- **Content Support** – Write blog posts or documentation in Markdown (MD) and MDX.
+- **Static and Fast** – Fully static content optimized for performance.
+
+## 💻 Installation
+
+> [!TIP]
+> Remember to update [`src/consts.ts`](https://github.com/ArnavK-09/token-template/blob/main/src/consts.ts)
+
+###### terminal
+
+```bash
+# Clone the repository
+git clone https://github.com/ArnavK-09/token-template.git my-portfolio
+cd my-portfolio
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+## 📷 Screenshots
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> Here's a working and expected screenshot of **token-template**
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+| Landing Page                              |
+| ----------------------------------------- |
+| ![Demo](/public/screenshot.png) |
 
-Features:
+| [Lighthouse Results](https://pagespeed.web.dev/analysis/https-token-template-deno-dev/o4lgrcn8pd?form_factor=desktop)                              |
+| ----------------------------------------- |
+| ![results](/public/lighthouse.png) |
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+---
 
-## 🚀 Project Structure
+## 💻 Contributing
 
-Inside of your Astro project, you'll see the following folders and files:
+> [!TIP]  
+> We welcome contributions to improve **token-template**! If you have suggestions, bug fixes, or new feature ideas, follow these steps:
 
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+1. **Fork the Repository**  
+   Click the **Fork** button at the top-right of the repo page.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+2. **Clone Your Fork**  
+   Clone the repo locally:
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+   ```bash
+   git clone https://github.com/ArnavK-09/token-template.git
+   ```
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+3. **Create a Branch**  
+   Create a new branch for your changes:
 
-Any static assets, like images, can be placed in the `public/` directory.
+   ```bash
+   git checkout -b your-feature-branch
+   ```
 
-## 🧞 Commands
+4. **Make Changes**  
+   Implement your changes (bug fixes, features, etc.).
 
-All commands are run from the root of the project, from a terminal:
+5. **Commit and Push**  
+   Commit your changes and push the branch:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+   ```bash
+   git commit -m "feat(scope): description"
+   git push origin your-feature-branch
+   ```
 
-## 👀 Want to learn more?
+6. **Open a Pull Request**  
+   Open a PR with a detailed description of your changes.
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+7. **Collaborate and Merge**  
+   The maintainers will review your PR, request changes if needed, and merge it once approved.
 
-## Credit
+## 🙋‍♂️ Issues
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+Found a bug or need help? Please create an issue on the [GitHub repository](https://github.com/ArnavK-09/token-template/issues) with a detailed description.
+
+## 👤 Author
+
+<table>
+  <tbody>
+    <tr>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArnavK-09"><img src="https://github.com/ArnavK-09.png?s=100" width="130px;" alt="Arnav K"/></a><br /><a href="https://github.com/ArnavK-09"<h4><b>Arnav K</b></h3></a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h2 align="center">📄 License</h2>
+
+<p align="center">
+<strong>token-template</strong> is licensed under the <code>ISC</code> License. See the <a href="https://github.com/ArnavK-09/token-template/blob/main/LICENSE">LICENSE</a> file for more details.
+</p>
+
+---
+
+<p align="center">
+    <strong>🌟 If you find this project helpful, please give it a star on GitHub! 🌟</strong>
+</p>

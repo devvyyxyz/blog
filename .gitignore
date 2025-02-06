@@ -5,6 +5,7 @@ dist/
 
 # dependencies
 node_modules/
+package-log.json
 
 # logs
 npm-debug.log*
@@ -22,3 +23,4 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+package-lock.json
