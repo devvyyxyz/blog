@@ -6,9 +6,8 @@ heroImage: '/blog-placeholder-1.jpg'
 ---
 
 
-:::danger
-Please ensure you understand the purpose of each script before running it, as some scripts may alter system settings or delete files. Always run with appropriate permissions, especially for scripts requiring sudo access.
-:::
+> Please ensure you understand the purpose of each script before running it, as some scripts may alter system settings or delete files. Always run with appropriate permissions, especially for scripts requiring sudo access.
+
 
 ## Clean pkg cache
 List packages

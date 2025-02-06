@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/blog/Linux/Clean up Arch Linux.md",
+                "file": "src/content/blog/GitHub/GitHub workflows.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Clean up Arch Linux"
+              "title": "GitHub workflows"
             }
           }
         ]
@@ -167,9 +167,9 @@
   },
   "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
-    "src/templates/Base.md",
-    "src/content/blog/Linux/Clean up Arch Linux.md",
     "src/content/blog/markdown-style-guide.md",
+    "src/content/blog/Linux/Clean up Arch Linux.md",
+    "src/templates/Base.md",
     "src/content/blog/Linux",
     "src/content/blog/GitHub/Untitled 1.md",
     "src/content/blog/GitHub/Untitled.md",
