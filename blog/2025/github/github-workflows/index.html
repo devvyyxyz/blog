@@ -1,0 +1,135 @@
+<!DOCTYPE html><html lang="en" class="!overflow-x-hidden"> <head><!-- Global Metadata --><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" type="image/svg+xml" href="https://emoji-route.deno.dev/svg/👩‍💻"><meta name="generator" content="Astro v5.2.5"><link rel="sitemap" href="/sitemap-index.xml"><!-- Font preloads --><link rel="preload" href="/fonts/whitrabt.ttf" as="font" type="font/ttf" crossorigin><!-- Canonical URL --><link rel="canonical" href="https://blog.devvyy.xyz/blog/2025/github/github-workflows/"><!-- Primary Meta Tags --><title>DEVVYYXYZ</title><meta name="title" content="DEVVYYXYZ"><meta name="description" content="DEVVYYXYZ's blogs"><!-- Open Graph / Facebook --><meta property="og:type" content="website"><meta property="og:url" content="https://blog.devvyy.xyz/blog/2025/github/github-workflows/"><meta property="og:title" content="DEVVYYXYZ"><meta property="og:description" content="DEVVYYXYZ's blogs"><meta property="og:image" content="https://blog.devvyy.xyz/image.jpg"><!-- Twitter --><meta property="twitter:card" content="summary_large_image"><meta property="twitter:url" content="https://blog.devvyy.xyz/blog/2025/github/github-workflows/"><meta property="twitter:title" content="DEVVYYXYZ"><meta property="twitter:description" content="DEVVYYXYZ's blogs"><meta property="twitter:image" content="https://blog.devvyy.xyz/image.jpg"><!-- View Transitions  --><meta name="astro-view-transitions-enabled" content="true"><meta name="astro-view-transitions-fallback" content="animate"><script type="module" src="/_astro/ClientRouter.astro_astro_type_script_index_0_lang.rasoniT7.js"></script><script src="https://cdn.jsdelivr.net/gh/ArnavK-09/add-github-badge@main/dist/main.js"></script><script>addGithubBadge("ArnavK-09");</script><link rel="stylesheet" href="/_astro/_slug_.QmvkaQdf.css"></head> <body class="bg-black text-white tracking-wide !overflow-x-hidden"> <header class="fixed top-0 w-screen z-[9999]"><nav class="w-full !z-[9999] py-5 px-4 bg-black/90 backdrop-blur-sm"> <div class="w-full grid gap-4 md:px-5 place-items-center grid-cols-1 md:flex md:justify-between md:px-4"> <a href="/"> <div id="logo" class="pt-2 pb-1 !grid !place-items-center select-none leading-none hover:bg-black bg-white scale-110 hover:text-white text-black px-4 transition-all ease-in-out"> DEVVYYXYZ </div> </a> <div class="flex flex-wrap gap-4 md:pr-5"> <div class="hidden md:block">/</div>  <a class="hover:bg-white hover:text-black transition-all ease-in-out px-2 max-w-fit" href="/blog"> <div>Blog</div> </a> <div class="hidden md:block">/</div>  <a class="hover:bg-white hover:text-black transition-all ease-in-out px-2 max-w-fit" href="///github.com/devvyyxyz"> <div>Github</div> </a> <div class="hidden md:block">/</div>  <a class="hover:bg-white hover:text-black transition-all ease-in-out px-2 max-w-fit" href="///github.com/ArnavK-09/token-template"> <div>Source ❤️</div> </a> <div class="hidden md:block">/</div>  </div> </div> </nav> <script type="module">window.addEventListener("scroll",()=>{const e=document.getElementById("logo");e&&(window.scrollY>100?e.className="pt-2 pb-1 !grid !place-items-center select-none leading-none hover:bg-white bg-black scale-100 hover:text-black text-white px-4 transition-all ease-in-out":e.className="pt-2 pb-1 !grid !place-items-center select-none leading-none hover:bg-black bg-white scale-110 hover:text-white text-black px-4 transition-all ease-in-out")});</script></header> <main class="pt-28 md:pt-20"> <article class="pb-10 grid place-items-center grid-cols-1"> <div class="w-full grid place-items-center my-10 px-10 overflow-x-hidden"> <img src="/images/blog-placeholder-2.png" alt="hero-image" class="rounded-2xl"> </div> <div class="prose !max-w-[90vw] overflow-x-hidden !break-words brightness-110 prose-img:scale-90 prose-img:rounded-2xl prose-invert prose-hr:border-white prose-hr:bg-white px-4 md:px-0 md:max-w-4xl"> <div> <div> <time datetime="2025-02-06T00:00:00.000Z"> Feb 6, 2025 </time>  </div> <h1>Github workflows</h1> <hr> </div>  <blockquote>
+<p>While these workflows are designed to automate tasks and improve efficiency, always review and test any changes to the workflows before deploying them in a production environment. Incorrect configurations may lead to unintended consequences, such as overwriting data, deploying unstable code, or exposing sensitive information. Use with caution and ensure sensitive secrets are securely managed using GitHub’s secrets feature.</p>
+</blockquote>
+<h2 id="github-repo">Github repo</h2>
+<p>==- Automatically Deploy and Create Releases</p>
+<h4 id="how-it-works">How It Works</h4>
+<ul>
+<li><strong>Every Commit</strong>:
+<ul>
+<li>Automatically increments the patch version (e.g., <code>v1.0.1</code>, <code>v1.0.2</code>, etc.).</li>
+</ul>
+</li>
+<li><strong>Every 10 Commits</strong>:
+<ul>
+<li>Increments the minor version (e.g., <code>v1.1.0</code>, <code>v1.2.0</code>) and resets the patch version to <code>0</code>.</li>
+</ul>
+</li>
+<li><strong>Manual Major Release</strong>:
+<ul>
+<li>Modify the <code>major_version</code> variable in the <code>calculate_version</code> step to manually bump the major version (e.g., from <code>v1.x.x</code> to <code>v2.0.0</code>).</li>
+</ul>
+</li>
+</ul>
+<p>:::code source=”../../assets/Files/release.yml” :::</p>
+<p>===</p>
+<h2 id="retype">Retype</h2>
+<p>==- Publish Retype-Powered Website to GitHub Pages</p>
+<h4 id="how-it-works-1">How It Works</h4>
+<ol>
+<li><strong>Trigger on Push</strong>:
+<ul>
+<li>Automatically builds and publishes your Retype site whenever changes are pushed to the repository.</li>
+</ul>
+</li>
+<li><strong>GitHub Pages Deployment</strong>:
+<ul>
+<li>Outputs the static website files into a <code>gh-pages</code> branch for seamless hosting.</li>
+</ul>
+</li>
+</ol>
+<p>:::code source=”../../assets/Files/retype-app.yml” :::</p>
+<p>===</p>
+<h2 id="other">Other</h2>
+<p>==- Automated Dependency Updates</p>
+<h4 id="how-it-works-2">How It Works</h4>
+<ol>
+<li>Keep your dependencies up to date with minimal effort using Dependabot.</li>
+<li>It creates pull requests for dependency updates, allowing you to review and merge changes safely.</li>
+</ol>
+<p>:::code source=”../../assets/Files/automateddependencyupdates.yml” :::</p>
+<p>===</p>
+<p>==- Lint and Test Code on Push</p>
+<h4 id="how-it-works-3">How It Works</h4>
+<ol>
+<li>Automatically lint and test your code every time you push to the repository or create a pull request.</li>
+<li>Ensures code quality by detecting issues early in the development process.</li>
+</ol>
+<p>:::code source=”../../assets/Files/lintandtest.yml” :::</p>
+<p>===</p>
+<p>==- Daily Database Backup</p>
+<h4 id="how-it-works-4">How It Works</h4>
+<ol>
+<li>Creates a backup of your database daily at a specified time.</li>
+<li>The backups are securely stored in a cloud bucket for redundancy.</li>
+</ol>
+<p>:::code source=”../../assets/Files/dailydatabasebackup.yml” :::</p>
+<p>===</p>
+<p>==- Build and Deploy Docker Image</p>
+<h4 id="how-it-works-5">How It Works</h4>
+<ol>
+<li>Automatically builds a Docker image from your repository’s code.</li>
+<li>Pushes the image to a container registry (e.g., Docker Hub or GitHub Container Registry).</li>
+</ol>
+<p>:::code source=”../../assets/Files/buildanddeploydocker.yml” :::</p>
+<p>===</p>
+<p>==- Notify Team on Deployment</p>
+<h4 id="how-it-works-6">How It Works</h4>
+<ol>
+<li>Sends a notification to your team via Slack or Discord whenever a deployment is completed.</li>
+<li>Helps keep everyone informed about the current state of the application.</li>
+</ol>
+<p>:::code source=”../../assets/Files/notifydeployment.yml” :::</p>
+<p>===</p>
+<p>==- Run Security Scans on Code</p>
+<h4 id="how-it-works-7">How It Works</h4>
+<ol>
+<li>Scans your codebase for known vulnerabilities and security issues using tools like <code>CodeQL</code>.</li>
+<li>Generates a detailed report for remediation.</li>
+</ol>
+<p>:::code source=”../../assets/Files/securityscan.yml” :::</p>
+<p>===</p>
+<p>==- Automated Test Coverage Report</p>
+<h4 id="how-it-works-8">How It Works</h4>
+<ol>
+<li>Runs your test suite and generates a test coverage report.</li>
+<li>Uploads the coverage data to a service like Codecov or Coveralls for analysis.</li>
+</ol>
+<p>:::code source=”../../assets/Files/testcoverage.yml” :::</p>
+<p>===</p>
+<p>==- Stale Issue and Pull Request Manager</p>
+<h4 id="how-it-works-9">How It Works</h4>
+<ol>
+<li>Automatically marks issues and pull requests as stale after a period of inactivity.</li>
+<li>Closes stale items after another specified period, helping to keep the repository tidy.</li>
+</ol>
+<p>:::code source=”../../assets/Files/staleissues.yml” :::</p>
+<p>===</p>
+<p>==- Automatic Changelog Generator</p>
+<h4 id="how-it-works-10">How It Works</h4>
+<ol>
+<li>Generates a changelog for your project by parsing commit messages and PR descriptions.</li>
+<li>Creates a <code>CHANGELOG.md</code> file or appends the new release notes to an existing one.</li>
+</ol>
+<p>:::code source=”../../assets/Files/changeloggenerator.yml” :::</p>
+<p>===</p>
+<p>==- Continuous Deployment to AWS</p>
+<h4 id="how-it-works-11">How It Works</h4>
+<ol>
+<li>Builds your application and deploys it to an AWS service (e.g., S3, ECS, or Lambda).</li>
+<li>Ensures your application is always running the latest code.</li>
+</ol>
+<p>:::code source=”../../assets/Files/continuousdeploymentaws.yml” :::</p>
+<p>===</p>
+<p>==- Monitor Workflow Performance</p>
+<h4 id="how-it-works-12">How It Works</h4>
+<ol>
+<li>Tracks the runtime of workflows and generates performance insights.</li>
+<li>Sends alerts for workflows that exceed predefined thresholds.</li>
+</ol>
+<p>:::code source=”../../assets/Files/workflowperformance.yml” :::</p>
+<p>===</p>  </div> </article> </main> <footer class="w-screen bottom-0 overflow-x-hidden"><div class="h-28 overflow-hidden"> <div class="hero-bg">
+1000001100000000101001011011110000000101000011000100111110110100101101101101011000111110111010010000010010101100011001111110010110011010000011001110001100111010010010010011000001001100001111100010100101001010101000000011101000010000000000011101101001010100110111110100001100010100001100010100010110001110001011000001011110010100101011101100001010011100100010000001010000100011111011010110000001010010100000110011000010100001110111101010110010111100111100011001000011011001110000000000101110110001101111101110011011100010111011010001000100101101101100110111010011010110010000101010010000100100110101101110101011011001000111100111001011101000101101001001001011011000011111001001100101110100000111000100010010100001111101100001001110011011111001111101001110000000010000100101101101011011111000011100000010110111001110000110110100110100110011101100000101011101001010111001000000101000010111110101100110000110110001101000101100001110000110110011001010001011011000110100000101111101000011110110100010011110
+</div> </div> <section id="footer" class="w-full grid relative place-items-center text-center py-4 bg-white/[0.001]"> <div class="px-10 py-3 border-2 border-white">
+&copy; 2025 DEVVYYXYZ. All rights reserved.
+</div> </section></footer> </body></html>
