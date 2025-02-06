@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/blog/2025/Instagram/How to Secure Your Instagram Account.md",
-                "mode": "source",
-                "source": false
+                "file": "src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "How to Secure Your Instagram Account"
+              "title": "Unreal Engine resources"
             }
           }
         ]
@@ -167,13 +167,15 @@
   },
   "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
+    "src/content/blog/2025/Unreal Engine",
+    "src/content/blog/2025/Instagram/How to Secure Your Instagram Account.md",
+    "src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
     "src/content/blog/2024/markdown-style-guide.md",
     "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
     "src/content/blog/2025/Trends/Emerging Tech Trends in 2025.md",
     "public/Twitter-x-devvyyxyz.png",
     "src/content/blog/2025/Linux/Customize Your Linux Terminal with ZSH and Oh-My-Zsh.md",
     "src/content/blog/2025/LinkedIn/How to Optimize Your LinkedIn Profile.md",
-    "src/content/blog/2025/Instagram/How to Secure Your Instagram Account.md",
     "public/linkedin-devvyyxyz.jpg",
     "public/Instagram-devvyyxyz.jpg",
     "public/blog-placeholder-1.jpg",
@@ -181,7 +183,6 @@
     "src/content/blog/2025/Linux/Clean up Arch Linux.md",
     "src/content/blog/2025/LinkedIn",
     "src/content/blog/2025/Instagram",
-    "src/content/blog/2025/Untitled.md",
     "src/content/blog/2025/Twitter",
     "src/content/blog/2025/Trends",
     "src/content/blog/2024",
