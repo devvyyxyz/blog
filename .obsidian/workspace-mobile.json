@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
+                "file": "src/content/blog/2025/LinkedIn/How to Optimize Your LinkedIn Profile.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "How to Make Your Twitter-X Account Private"
+              "title": "How to Optimize Your LinkedIn Profile"
             }
           }
         ]
@@ -167,8 +167,12 @@
   },
   "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
-    "src/content/blog/2025/Trends/Emerging Tech Trends in 2025.md",
+    "src/content/blog/2025/Instagram/How to Secure Your Instagram Account.md",
+    "src/content/blog/2025/LinkedIn/How to Optimize Your LinkedIn Profile.md",
+    "src/content/blog/2025/LinkedIn",
     "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
+    "src/content/blog/2025/Instagram",
+    "src/content/blog/2025/Trends/Emerging Tech Trends in 2025.md",
     "src/content/blog/2025/Untitled.md",
     "src/content/blog/2025/Twitter",
     "src/content/blog/2024/markdown-style-guide.md",
@@ -196,8 +200,6 @@
     "src/content/blog/second-post.md",
     "src/content/blog/Best SSG for blogs.md",
     "tailwind.config.cjs",
-    "src/pages/blog/index.astro",
-    "src/content.config.ts",
     "src/content/blog/e/third-post.md",
     "/src/content/blog/second-post.md",
     "/src/content/blog/markdown-style-guide.md",
@@ -210,8 +212,6 @@
     "src/content/blog/GitHub workflows.md",
     "src/content/blog/template.md",
     "README.md",
-    "src/content/blog/How to setup astro with Obsidian.md",
-    "src/content/blog/Best blog creation tools.md",
-    "src/content/Untitled.md"
+    "src/content/blog/How to setup astro with Obsidian.md"
   ]
 }
