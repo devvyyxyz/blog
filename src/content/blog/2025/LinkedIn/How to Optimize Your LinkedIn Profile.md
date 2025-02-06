@@ -1,8 +1,8 @@
 ---
-title: 'How to Optimize Your LinkedIn Profile for Professional Networking'
-description: 'Enhance your LinkedIn profile to boost your professional presence and networking opportunities with these simple tips.'
-pubDate: 'Feb 06 2025'
-heroImage: '/linkedin-optimization.jpg'
+title: How to Optimize Your LinkedIn Profile for Professional Networking
+description: Enhance your LinkedIn profile to boost your professional presence and networking opportunities with these simple tips.
+pubDate: Feb 06 2025
+heroImage: /linkedin.jpg
 ---
 
 ## Introduction
