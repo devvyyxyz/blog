@@ -1,7 +1,7 @@
 ---
 title: "Dreamcore: A Surreal Exploration and Mystery Adventure that I've enjoyed since day 1"
 description: Dreamcore by Montraluz (published by Tlön industries) is an indie exploration game that blends nostalgia and mystery with a dreamlike aesthetic
-pubDate: Jan 00 00
+pubDate: Feb 07 25
 heroImage: /images/games/dreamcore-devvyyxyz.jpg
 ---
 Dreamcore by Montraluz (published by Tlön industries) is an indie exploration game that blends nostalgia and mystery with a dreamlike aesthetic. The original poolrooms demo, released on August 23rd, 2024, garnered interest for its unique visual style, inspired by The Backrooms, Nostalgicore, and Matt studios artworks. It featured surreal environments, familiar settings, and psychological horror that transport players to liminal spaces brimming with eerie beauty bridging that gap most had yeearned for.  
