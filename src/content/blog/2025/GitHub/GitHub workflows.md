@@ -2,7 +2,7 @@
 title: 'Github workflows'
 description: 'Workflows are designed to automate tasks and improve efficiency'
 pubDate: 'Feb 6 2025'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/images/blog-placeholder-2.png'
 ---
 > While these workflows are designed to automate tasks and improve efficiency, always review and test any changes to the workflows before deploying them in a production environment. Incorrect configurations may lead to unintended consequences, such as overwriting data, deploying unstable code, or exposing sensitive information. Use with caution and ensure sensitive secrets are securely managed using GitHub's secrets feature.
 

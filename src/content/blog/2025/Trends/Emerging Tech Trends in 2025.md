@@ -2,7 +2,7 @@
 title: "Emerging Tech Trends in 2025: The Future is Here"
 description: A deep dive into the breakthrough technologies—ranging from next-generation AI to cutting-edge hardware—that are reshaping our world in 2025.
 pubDate: Feb 06 2025
-heroImage: /blog-placeholder-3.jpg
+heroImage: /images/blog-placeholder-3.png
 ---
 
 ## Introduction
