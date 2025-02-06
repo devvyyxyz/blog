@@ -11,14 +11,14 @@
             "id": "bc70d6e87676c7f9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "file": "src/content/blog/GitHub/GitHub workflows.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "git-pull-request",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "GitHub workflows"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
+    "src/content/blog/markdown-style-guide.md",
     "src/content/blog/GitHub/GitHub workflows.md",
     "public/favicon.svg",
     "src/content/blog/GitHub",
@@ -175,7 +176,6 @@
     "public/blog-placeholder-3.jpg",
     "public/blog-placeholder-2.jpg",
     "src/content/blog/first-post.md",
-    "src/content/blog/markdown-style-guide.md",
     "src/content/blog/second-post.md",
     "src/content/blog/Best SSG for blogs.md",
     "tailwind.config.cjs",
