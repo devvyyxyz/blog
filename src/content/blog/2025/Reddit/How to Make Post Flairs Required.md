@@ -36,7 +36,8 @@ Reddit does not have a built-in way to force flairs, so you'll need to use **Aut
 1. Go to **Mod Tools > Automoderator**.
 2. Click **"Edit Automoderator Config"**.
 3. Add the following rule:
-   ```yaml
+
+```yaml
    ---
    type: submission
    author:
@@ -48,7 +49,9 @@ Reddit does not have a built-in way to force flairs, so you'll need to use **Aut
    action: filter
    message: "Your post has been removed because it does not have a flair. Please select a flair and resubmit."
 ```
+
 4. Save your changes.
+
 ### How This Rule Works:
 - If a user submits a post without selecting a flair, AutoModerator will remove it.
 - The user will receive a removal message explaining that they must select a flair before resubmitting.

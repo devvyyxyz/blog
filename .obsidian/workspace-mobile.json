@@ -15,7 +15,7 @@
               "state": {
                 "file": "src/content/blog/2025/Reddit/How to Make Post Flairs Required.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "How to Make Post Flairs Required"
@@ -165,7 +165,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc70d6e87676c7f9",
+  "active": "d06675533a40e511",
   "lastOpenFiles": [
     "src/content/blog/2025/Games/Dreamcore A Surreal Exploration and Mystery Adventure.md",
     "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
