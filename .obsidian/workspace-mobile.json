@@ -11,14 +11,12 @@
             "id": "bc70d6e87676c7f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "src/content/blog/2025/Reddit/How to Make Post Flairs Required.md",
-                "mode": "source",
-                "source": true
+                "file": "public/image.png"
               },
-              "icon": "lucide-file",
-              "title": "How to Make Post Flairs Required"
+              "icon": "lucide-image",
+              "title": "image"
             }
           }
         ]
@@ -165,19 +163,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d06675533a40e511",
+  "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
+    "public/images/favicon.png",
+    "public/image.png",
+    "public/images/blog-placeholder-2.png",
+    "public/image.jpg",
+    "public/lighthouse.png",
+    "public/screenshot.png",
+    "public/image.png",
+    "src/content/blog/2025/Reddit/How to Make Post Flairs Required.md",
     "src/content/blog/2025/Games/Dreamcore A Surreal Exploration and Mystery Adventure.md",
     "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
     "src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
     "src/content/blog/2025/LinkedIn/How to Optimize Your LinkedIn Profile.md",
-    "src/content/blog/2025/Reddit/How to Make Post Flairs Required.md",
     "src/content/blog/2025/Reddit",
     "public/images/games/dreamcore-devvyyxyz.jpg",
     "public/images/games",
     "src/templates/Base.md",
     "src/templates",
-    "public/lighthouse.png",
     "src/content/blog/2025/Games",
     "/src/layouts/Layout.astro",
     "/src/layouts",
@@ -185,13 +189,8 @@
     "public/images/blog-placeholder-4.png",
     "public/images/blog-placeholder-5.png",
     "public/images/blog-placeholder-about.png",
-    "public/image.png",
-    "public/image.jpg",
-    "public/screenshot.png",
-    "src/hero.png",
     "src/layouts/Layout.astro",
     "src/components/Navbar.astro",
-    "src/hero2.png",
     "src/components/BlogPostCard.astro",
     "/src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
     "/src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
@@ -211,7 +210,6 @@
     "src/content/blog/2025/GitHub/GitHub workflows.md",
     "src/content/blog/GitHub/Untitled 1.md",
     "src/content/blog/GitHub/Untitled.md",
-    "Untitled.md",
-    "src/content/blog/first-post.md"
+    "Untitled.md"
   ]
 }
