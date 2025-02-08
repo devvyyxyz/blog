@@ -110,7 +110,7 @@ Happy developing!
 
 *Resources Referenced:*
 - [Unreal Engine Official Website](https://www.unrealengine.com/en-US/unreal-engine-5)
-- [Unreal Engine Documentation](https://docs.unrealengine.com/
+- [Unreal Engine Documentation](https://docs.unrealengine.com/)
 - YouTube Tutorials: [Getting Started](https://www.youtube.com/embed/k-zMkzmduqI), [Your First Game](https://www.youtube.com/embed/XRmn-EYt8wI), [Installation Guide](https://www.youtube.com/embed/bDUFB1ng00Q)
 - [Free UE5 Tutorial Series](https://forums.unrealengine.com/t/free-unreal-engine-5-beginner-tutorial-series-20-episodes/1731507)
 - [GitHub Unreal Engine Guide](https://github.com/mikeroyal/Unreal-Engine-Guide)
