@@ -165,8 +165,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d06675533a40e511",
+  "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
+    "src/templates/Base.md",
+    "src/content/blog/2025/The Ultimate In-Depth Guide to Legal Hacking Tools for Ethical Cybersecurity.md",
+    "src/content/blog/2025/discord/The Ultimate Guide to Discord Bot Maker Apps on Steam.md",
     "src/content/blog/2025/Games/Dreamcore A Surreal Exploration and Mystery Adventure.md",
     "src/content/blog/2025/GitHub/GitHub workflows.md",
     "src/content/blog/2025/Instagram/How to Secure Your Instagram Account.md",
@@ -177,10 +180,8 @@
     "src/content/blog/2025/Reddit/How to Make Post Flairs Required.md",
     "src/content/blog/2025/Trends/Emerging Tech Trends in 2025.md",
     "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
-    "src/content/blog/2025/The Ultimate In-Depth Guide to Legal Hacking Tools for Ethical Cybersecurity.md",
     "src/content/blog/2025/Unreal Engine/Getting Started in Unreal Engine 5.md",
     "src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
-    "src/content/blog/2025/discord/The Ultimate Guide to Discord Bot Maker Apps on Steam.md",
     "Clean.md",
     "src/content/blog/2025/discord",
     "src/content/blog/2024/markdown-style-guide.md",
@@ -198,7 +199,6 @@
     "src/content/blog/2025/Reddit",
     "public/images/games/dreamcore-devvyyxyz.jpg",
     "public/images/games",
-    "src/templates/Base.md",
     "src/templates",
     "src/content/blog/2025/Games",
     "public/images/blog-placeholder-4.png",

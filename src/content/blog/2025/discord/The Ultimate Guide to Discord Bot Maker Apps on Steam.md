@@ -89,6 +89,54 @@ Each of these apps caters to a slightly different audience and use case:
   - Beginners who prefer a guided, visual approach will likely enjoy *Discord Bot Builder* or *Bot Studio for Discord*.
   - Users looking for a more robust tool with extensive customization might lean toward *Discord Bot Maker* or *Bot Maker For Discord*.
 
+# Ratings
+
+| Aspect                        | Bot Maker For Discord | Discord Bot Builder | Discord Bot Maker | Bot Studio for Discord |
+|-------------------------------|-----------------------|---------------------|-------------------|------------------------|
+| **Ease of Use**               | 4/5                   | 5/5                 | 3/5               | 5/5                    |
+| **Customization**             | 4/5                   | 3/5                 | 5/5               | 4/5                    |
+| **Feature Set**               | 4/5                   | 3/5                 | 5/5               | 4/5                    |
+| **Extendability**             | 5/5                   | 2/5                 | 4/5               | 3/5                    |
+| **Community Support**         | 3.5/5                 | 2/5                 | 5/5               | 3/5                    |
+| **Price vs Value**            | 4/5                   | 3/5                 | 4/5               | 4/5                    |
+| **Stability & Performance**   | 4/5                   | 2/5                 | 3/5               | 4/5                    |
+| **Learning Curve**            | 3.5/5                 | 5/5                 | 2/5               | 4/5                    |
+| **Official Updates**          | 3/5                   | 1/5                 | 1/5               | 3/5                    |
+| **Documentation Quality**     | 4/5                   | 2/5                 | 3/5               | 4/5                    |
+| **Discord API Integration**   | 5/5                   | 1/5                 | 4/5               | 4/5                    |
+| **UI/UX Design**              | 4/5                   | 5/5                 | 3/5               | 4/5                    |
+| **Scalability / Multi-Bot Management** | 3/5          | 1/5                 | 4/5               | 4/5                    |
+| **Security & Privacy**        | 4/5                   | 3/5                 | 5/5               | 3/5                    |
+| **Overall Innovation**        | 4/5                   | 2/5                 | 3/5               | 4/5                    |
+## Discord features
+
+| Discord Feature               | Bot Maker For Discord | Discord Bot Builder | Discord Bot Maker  | Bot Studio for Discord |
+|-------------------------------|-----------------------|---------------------|--------------------|------------------------|
+| **Text Commands**             | Yes                   | Yes                 | Yes                | Yes                    |
+| **Slash Commands**            | Yes                   | No                  | Limited            | Yes                    |
+| **User/Message Context Commands** | Yes              | No                  | Yes                | Yes                    |
+| **Buttons**                   | Yes                   | No                  | Limited            | Yes                    |
+| **Premium Buttons**           | Yes                   | No                  | No                 | Yes                    |
+| **Dropdown Menus**            | Yes                   | No                  | Limited            | Yes                    |
+| **Modals (Pop-up Forms)**     | Limited               | No                  | No                 | Yes                    |
+| **Context Menus**             | Yes                   | No                  | Limited            | Yes                    |
+| **Basic Interactions**        | Yes                   | Limited             | Yes                | Yes                    |
+| **Ephemeral Responses**       | Yes                   | No                  | Limited            | Yes                    |
+| **Deferred Responses**        | Yes                   | No                  | Limited            | Yes                    |
+| **Webhook Integration**       | Yes                   | No                  | Yes                | Yes                    |
+| **Embed Support**             | Yes                   | No                  | Yes                | Yes                    |
+| **Attachment Support**        | Yes                   | No                  | Yes                | Yes                    |
+| **Permissions Handling**      | Yes                   | No                  | Yes                | Yes                    |
+| **Persistent Components**     | Yes                   | No                  | Limited            | Yes                    |
+| **Auto Command Registration** | Yes                   | No                  | Yes                | Yes                    |
+| **Dynamic Component Updates** | Yes                   | No                  | Limited            | Yes                    |
+| **Error Handling & Logging**  | Yes                   | Limited             | Yes                | Yes                    |
+| **Customizable UI Components**| Yes                   | No                  | Limited            | Yes                    |
+| **Scheduled Tasks / Cron Jobs** | Yes (via scripting)  | No                  | Yes (via scripting)| Yes (built-in options) |
+| **Music Bot Integration**     | Yes (via scripts)     | No                  | Yes (via scripts)  | Yes (via integrations) |
+| **Automoderation Features**   | Yes (via scripts)     | No                  | Yes (via scripts)  | Yes (built-in options) |
+| **Custom Prefix Support**     | Yes                   | No                  | Yes                | Yes                    |
+
 ---
 
 ## Conclusion
