@@ -110,32 +110,32 @@ Each of these apps caters to a slightly different audience and use case:
 | **Overall Innovation**        | 4/5                   | 2/5                 | 3/5               | 4/5                    |
 ## Discord features
 
-| Discord Feature               | Bot Maker For Discord | Discord Bot Builder | Discord Bot Maker  | Bot Studio for Discord |
-|-------------------------------|-----------------------|---------------------|--------------------|------------------------|
-| **Text Commands**             | Yes                   | Yes                 | Yes                | Yes                    |
-| **Slash Commands**            | Yes                   | No                  | Limited            | Yes                    |
-| **User/Message Context Commands** | Yes              | No                  | Yes                | Yes                    |
-| **Buttons**                   | Yes                   | No                  | Limited            | Yes                    |
-| **Premium Buttons**           | Yes                   | No                  | No                 | Yes                    |
-| **Dropdown Menus**            | Yes                   | No                  | Limited            | Yes                    |
-| **Modals (Pop-up Forms)**     | Limited               | No                  | No                 | Yes                    |
-| **Context Menus**             | Yes                   | No                  | Limited            | Yes                    |
-| **Basic Interactions**        | Yes                   | Limited             | Yes                | Yes                    |
-| **Ephemeral Responses**       | Yes                   | No                  | Limited            | Yes                    |
-| **Deferred Responses**        | Yes                   | No                  | Limited            | Yes                    |
-| **Webhook Integration**       | Yes                   | No                  | Yes                | Yes                    |
-| **Embed Support**             | Yes                   | No                  | Yes                | Yes                    |
-| **Attachment Support**        | Yes                   | No                  | Yes                | Yes                    |
-| **Permissions Handling**      | Yes                   | No                  | Yes                | Yes                    |
-| **Persistent Components**     | Yes                   | No                  | Limited            | Yes                    |
-| **Auto Command Registration** | Yes                   | No                  | Yes                | Yes                    |
-| **Dynamic Component Updates** | Yes                   | No                  | Limited            | Yes                    |
-| **Error Handling & Logging**  | Yes                   | Limited             | Yes                | Yes                    |
-| **Customizable UI Components**| Yes                   | No                  | Limited            | Yes                    |
-| **Scheduled Tasks / Cron Jobs** | Yes (via scripting)  | No                  | Yes (via scripting)| Yes (built-in options) |
-| **Music Bot Integration**     | Yes (via scripts)     | No                  | Yes (via scripts)  | Yes (via integrations) |
-| **Automoderation Features**   | Yes (via scripts)     | No                  | Yes (via scripts)  | Yes (built-in options) |
-| **Custom Prefix Support**     | Yes                   | No                  | Yes                | Yes                    |
+| Discord Feature                   | Bot Maker For Discord | Discord Bot Builder | Discord Bot Maker   | Bot Studio for Discord |
+| --------------------------------- | --------------------- | ------------------- | ------------------- | ---------------------- |
+| **Text Commands**                 | Yes                   | Yes                 | Yes                 | Yes                    |
+| **Slash Commands**                | Yes                   | No                  | Limited             | Yes                    |
+| **User/Message Context Commands** | Yes                   | No                  | Yes                 | Yes                    |
+| **Buttons**                       | Yes                   | No                  | Limited             | Yes                    |
+| **Premium Buttons**               | Yes                   | No                  | No                  | Yes                    |
+| **Dropdown Menus**                | Yes                   | No                  | Limited             | Yes                    |
+| **Modals (Pop-up Forms)**         | Limited               | No                  | No                  | Yes                    |
+| **Context Menus**                 | Yes                   | No                  | Limited             | Yes                    |
+| **Basic Interactions**            | Yes                   | Limited             | Yes                 | Yes                    |
+| **Ephemeral Responses**           | Yes                   | No                  | Limited             | Yes                    |
+| **Deferred Responses**            | Yes                   | No                  | Limited             | Yes                    |
+| **Webhook Integration**           | Yes                   | No                  | Yes                 | Yes                    |
+| **Embed Support**                 | Yes                   | No                  | Yes                 | Yes                    |
+| **Attachment Support**            | Yes                   | No                  | Yes                 | Yes                    |
+| **Permissions Handling**          | Yes                   | No                  | Yes                 | Yes                    |
+| **Persistent Components**         | Yes                   | No                  | Limited             | Yes                    |
+| **Auto Command Registration**     | Yes                   | No                  | Yes                 | Yes                    |
+| **Dynamic Component Updates**     | Yes                   | No                  | Limited             | Yes                    |
+| **Error Handling & Logging**      | Yes                   | Limited             | Yes                 | Yes                    |
+| **Customizable UI Components**    | Yes                   | No                  | Limited             | Yes                    |
+| **Scheduled Tasks / Cron Jobs**   | Yes (via scripting)   | No                  | Yes (via scripting) | Yes (built-in options) |
+| **Music Bot Integration**         | Yes (via scripts)     | No                  | Yes (via scripts)   | Yes (via integrations) |
+| **Automoderation Features**       | Yes (via scripts)     | No                  | Yes (via scripts)   | Yes (built-in options) |
+| **Custom Prefix Support**         | Yes                   | No                  | Yes                 | Yes                    |
 
 ---
 
