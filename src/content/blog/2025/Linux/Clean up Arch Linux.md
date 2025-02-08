@@ -65,3 +65,5 @@ stored in ~/.config/
 
 ## Find and remove
 install rmlint package `sudo pacman -S rm lint`.
+
+Use Debian? Read this guide instead: [[Clean up Debian Linux]]
