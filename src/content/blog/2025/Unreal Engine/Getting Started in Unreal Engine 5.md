@@ -4,6 +4,8 @@ description: "Getting Started in Unreal Engine 5: An In-Depth Beginner’s Guide
 pubDate: Feb 08 2025
 heroImage: /images/blog-placeholder-1.png
 ---
+## Introduction
+
 Unreal Engine 5 (UE5) is one of the most powerful real-time 3D creation tools available today. Whether you’re interested in game development, cinematic experiences, or interactive design, this guide will walk you through everything you need to know to begin your journey in UE5.
 
 ---
