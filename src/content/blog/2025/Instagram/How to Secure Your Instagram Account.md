@@ -2,7 +2,7 @@
 title: How to Secure Your Instagram Account
 description: A quick guide to making your Instagram account private and protecting your personal content.
 pubDate: Feb 06 2025
-heroImage: /images/instagram/Instagram-devvyyxyz.png
+heroImage: /images/blog-placeholder-1.png
 ---
 
 ## Introduction

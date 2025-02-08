@@ -2,7 +2,7 @@
 title: How to Optimize Your LinkedIn Profile for Professional Networking
 description: Enhance your LinkedIn profile to boost your professional presence and networking opportunities with these simple tips.
 pubDate: Feb 06 2025
-heroImage: /images/linkedin-devvyyxyz.png
+heroImage: /images/blog-placeholder-1.png
 ---
 
 ## Introduction

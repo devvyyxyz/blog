@@ -2,7 +2,7 @@
 title: Clean up Arch Linux
 description: How to clean up a Arch Linux system
 pubDate: Feb 06 2025
-heroImage: /images/linux/arch-linux-devvyyxyz.png
+heroImage: /images/blog-placeholder-1.png
 ---
 > Please ensure you understand the purpose of each script before running it, as some scripts may alter system settings or delete files. Always run with appropriate permissions, especially for scripts requiring sudo access.
 ## Clean pkg cache

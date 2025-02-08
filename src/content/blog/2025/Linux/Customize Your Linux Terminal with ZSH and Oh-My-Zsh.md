@@ -2,7 +2,7 @@
 title: Customize Your Linux Terminal with ZSH and Oh-My-Zsh
 description: A step-by-step guide on transforming your Linux terminal into a modern, efficient, and stylish workspace using ZSH and Oh-My-Zsh.
 pubDate: Feb 06 2025
-heroImage: /images/blog-placeholder-2.png
+heroImage: /images/blog-placeholder-1.png
 ---
 
   
