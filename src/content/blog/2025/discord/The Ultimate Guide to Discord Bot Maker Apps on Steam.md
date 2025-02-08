@@ -5,6 +5,7 @@ pubDate: Feb 08 2025
 heroImage: /images/blog-placeholder-1.png
 ---
 
+## Introduction
 Discord is more than just a chat app—it’s a vibrant community hub where bots play an essential role in automating tasks, moderating servers, and adding fun interactions. If you’re looking to create your very own custom Discord bots without diving deep into programming, Steam offers several bot maker applications designed to help both beginners and experienced users. In this guide, we’ll explore the most popular Discord bot maker apps available on Steam, compare their features, and help you decide which one suits your needs.
 
 ---
