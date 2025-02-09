@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "src/content/blog/2025/Unreal Engine/Discovering Ulthar Studios.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Discovering Ulthar Studios"
@@ -165,10 +165,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d06675533a40e511",
+  "active": "bc70d6e87676c7f9",
   "lastOpenFiles": [
-    "src/content/blog/2025/Linux/How to install arch Linux.md",
+    "src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
+    "aaa.md",
     "src/content/blog/2025/Unreal Engine/Discovering Ulthar Studios.md",
+    "src/content/blog/2025/Linux/How to install arch Linux.md",
     "src/content/blog/2025/discord/The Ultimate Guide to Discord Bot Maker Apps on Steam.md",
     "src/templates/Base.md",
     "src/content/blog/2025/The Ultimate In-Depth Guide to Legal Hacking Tools for Ethical Cybersecurity.md",
@@ -183,7 +185,6 @@
     "src/content/blog/2025/Trends/Emerging Tech Trends in 2025.md",
     "src/content/blog/2025/Twitter/How to Make Your Twitter-X Account Private.md",
     "src/content/blog/2025/Unreal Engine/Getting Started in Unreal Engine 5.md",
-    "src/content/blog/2025/Unreal Engine/Unreal Engine resources.md",
     "Clean.md",
     "src/content/blog/2025/discord",
     "src/content/blog/2024/markdown-style-guide.md",
@@ -210,7 +211,6 @@
     "/src/content/blog/2025/Trends/Emerging Tech Trends in 2025.md",
     "/src/content/blog/2025/Linux/Customize Your Linux Terminal with ZSH and Oh-My-Zsh.md",
     "/src/content/blog/2025/Linux/Clean up Debian Linux.md",
-    "/src/content/blog/2025/Linux/Clean up Arch Linux.md",
-    "/src/content/blog/2025/LinkedIn/How to Optimize Your LinkedIn Profile.md"
+    "/src/content/blog/2025/Linux/Clean up Arch Linux.md"
   ]
 }
