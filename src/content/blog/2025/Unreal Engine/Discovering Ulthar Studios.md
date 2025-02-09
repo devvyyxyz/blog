@@ -70,8 +70,6 @@ Nothing brings the creative process to life like video. Below is a behind-the-sc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V4G_bad6A0c" title="Ulthar Studios Behind the Scenes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Replace `VIDEO_ID` with the actual video ID from Ulthar Studios’ YouTube channel to view the specific video.*
-
 For a broader perspective, visit the [Ulthar Studios YouTube Channel](https://www.youtube.com/@ultharstudio) to browse through project showcases, tutorials, and in-depth creative process videos.
 
 ---
