@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Getting Your Website Indexed on Every Search Engine
 description: Text
-pubDate: Jan 00 00
+pubDate: March 11 2025
 heroImage: /images/blog-placeholder-1.png
 ---
 Getting your website indexed on all major search engines requires a combination of technical optimizations, submissions, and ongoing SEO efforts. Here’s a step-by-step guide to ensure your website is indexed everywhere:
