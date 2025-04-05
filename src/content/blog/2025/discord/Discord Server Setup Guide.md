@@ -1,7 +1,7 @@
 ---
 title: How to Supercharge Your Discord Server — Features Every Community Should Add
 description: Discord is more than just a chat app—it’s a vibrant community hub where bots play an essential role in automating tasks, moderating servers, and adding fun interactions, here is a guide for setting up a well organised community!
-pubDate: Feb 08 2025
+pubDate: April 05 2025
 heroImage: /images/blog-placeholder-1.png
 ---
 # Supercharge Your Discord Server: 5 Must-Have Features & Tools
