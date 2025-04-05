@@ -83,20 +83,41 @@ sudo pacman -Rns $(pacman -Qdtq)
 
 ## 4. Cleaning the Home Directory Cache
 
-User-specific caches can accumulate in your home directory, particularly in `~/.cache/`. To clear these:
+User-specific caches can accumulate in your home directory, particularly in `~/.cache/`. While clearing them can free up space, **caches are created for a reason**—they often store temporary files that improve application performance, such as thumbnails, browser data, or package indexes.
 
-- **Manually remove cache files:**
+### **Proceed with caution**:
+Removing everything in `~/.cache` can result in:
+- Slower launch times (as apps rebuild caches)
+- Lost preferences or login sessions (depending on the app)
+- Potential errors for programs expecting cached files
 
-```
-rm -rf ~/.cache/*
-```
+### **To inspect and selectively clean large cache directories:**
 
-- **Using `du` to identify large directories:**
+- **List sizes of cached directories:**
 
 ```
 du -sh ~/.cache/*
 ```
 
+- **Manually remove known safe directories** (e.g. browser caches, thumbnail cache):
+
+```
+rm -r ~/.cache/mozilla
+rm -r ~/.cache/thumbnails
+```
+
+- **If you're sure and want to clear everything:**
+
+```
+rm -r ~/.cache/*
+```
+
+Avoid using `-f` (force) unless you're confident. If certain files won't delete, it may be due to:
+- Files in use
+- Permission issues
+- Files managed by system or services (e.g. GNOME Tracker, Electron apps)
+
+**Recommendation**: Understand what you're deleting. Never blindly force-delete everything—especially with `sudo rm -rf ~/.cache/*`.
 ## 5. Removing Unused Flatpak Packages (If Applicable)
 
 If you use Flatpak, unused runtimes and packages can consume disk space. To remove them:
@@ -106,22 +127,40 @@ If you use Flatpak, unused runtimes and packages can consume disk space. To remo
 ```
 flatpak uninstall --unused
 ```
-
 ## 6. Clearing Systemd Journal Logs
 
-Systemd journal logs can grow over time. To limit their size:
+Systemd journal logs help with diagnosing issues, tracking crashes, and viewing service behavior. Over time, they can take up a significant amount of space—especially on systems with limited storage.
 
-- **Vacuum journal files older than two weeks:**
+To manage journal size, you can vacuum old logs based on age or total disk usage.
+
+### **Why 2 weeks?**
+
+A two-week retention period is a **balanced default**:
+- Keeps logs from recent updates and problems
+- Avoids growing log files unnecessarily
+- Reasonable timeframe for most debugging needs
+
+However, you can adjust this based on your system usage. For example:
+- Servers or systems with frequent changes may want longer retention.
+- Lightweight desktops or VMs may reduce it further.
 
 ```
 sudo journalctl --vacuum-time=2weeks
 ```
 
-- **Limit journal size to 100MB:**
+### **Why 100MB?**
+
+Limiting the journal to 100MB ensures it won’t consume excessive space while still retaining a history.
 
 ```
 sudo journalctl --vacuum-size=100M
 ```
+
+**Recommendations**:
+- For low-storage systems (e.g. laptops, VMs): Try `--vacuum-size=50M` or `--vacuum-time=1week`.
+- For production servers: Consider a more generous size (e.g. 500MB or `--vacuum-time=1month`) for better audit trail.
+
+You can also permanently set these defaults in `/etc/systemd/journald.conf`.
 
 ---
 
