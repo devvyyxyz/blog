@@ -35,7 +35,7 @@ This site includes a curated set of common patterns to block harmful content aut
 4. Add regex patterns from the list above
 
 ### Guide:  
-[Discord AutoMod: How to Use & Customize](https://support.discord.com/hc/en-us/articles/7766130491415-AutoMod-FAQ)
+[Discord AutoMod: How to Use & Customize](https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ#:~:text=In%20order%20to%20set%20up,keyword%20filter%20options%20for%20AutoMod.)
 
 ---
 
@@ -95,7 +95,7 @@ Tired of fast-moving channels where posts get buried? Try converting certain cha
 3. Encourage users to start new threads instead of chatting in general
 
 ### Guide:
-[How to Use Forum Channels on Discord](https://support.discord.com/hc/en-us/articles/6208479915799-Forum-Channels-FAQ)
+[How to Use Forum Channels on Discord](https://support.discord.com/hc/en-us/articles/6208479917079-Forum-Channels-FAQ#:~:text=Forum%20Channels%20provide%20a%20space,about%20your%20message%20getting%20buried!)
 
 ---
 
@@ -104,7 +104,7 @@ Tired of fast-moving channels where posts get buried? Try converting certain cha
 Keep your community talking with a **Question of the Day (QOTD)** bot. It automatically posts questions on a schedule and pings users to join in.
 
 ### Recommended Bot:
-- **Question of the Day Bot** <@713586207119900693>  
+- **Question of the Day Bot**
 (Available on [top.gg](https://top.gg/bot/713586207119900693))
 
 ### Features:
@@ -132,7 +132,7 @@ Use bots like **Carl-bot** or **ServerMate** to greet new users with:
 
 ### 2. **Event Scheduling**
 Host game nights, movie nights, or Q&As using bots like:
-- [**Sesh**](https://sesh.fyi/docs)
+- [**Sesh**](https://sesh.fyi)
 - [**DisCal**](https://www.discalbot.com/)
 
 ### 3. **Interest Roles**
